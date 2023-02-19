@@ -1,2 +1,1 @@
-
-y -= spd;
+y -= shoot_speed;

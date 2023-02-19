@@ -29,14 +29,14 @@
   "IncludedFiles": [],
   "isEcma": false,
   "MetaData": {
-    "IDEVersion": "2023.1.1.62",
+    "IDEVersion": "2023.1.0.58",
   },
   "resources": [
     {"id":{"name":"player_sprite","path":"sprites/player_sprite/player_sprite.yy",},"order":0,},
     {"id":{"name":"enemy_sprite","path":"sprites/enemy_sprite/enemy_sprite.yy",},"order":2,},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":15,},
     {"id":{"name":"shoot_obj","path":"objects/shoot_obj/shoot_obj.yy",},"order":1,},
     {"id":{"name":"shoot_sprite","path":"sprites/shoot_sprite/shoot_sprite.yy",},"order":1,},
+    {"id":{"name":"obj_meteor_2","path":"objects/obj_meteor_2/obj_meteor_2.yy",},"order":0,},
     {"id":{"name":"enemy_obj","path":"objects/enemy_obj/enemy_obj.yy",},"order":2,},
     {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
