@@ -5,17 +5,18 @@
   "eventList": [],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"enemy_obj","path":"objects/enemy_obj/enemy_obj.yy",},"propertyId":{"name":"color","path":"objects/enemy_obj/enemy_obj.yy",},"value":"$004CA5FF",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"enemy_obj","path":"objects/enemy_obj/enemy_obj.yy",},"propertyId":{"name":"health_point","path":"objects/enemy_obj/enemy_obj.yy",},"value":"3",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"enemy_obj","path":"objects/enemy_obj/enemy_obj.yy",},"propertyId":{"name":"damage","path":"objects/enemy_obj/enemy_obj.yy",},"value":"3",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_meteor","path":"objects/obj_meteor/obj_meteor.yy",},"propertyId":{"name":"color","path":"objects/obj_meteor/obj_meteor.yy",},"value":"$004CA5FF",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_meteor","path":"objects/obj_meteor/obj_meteor.yy",},"propertyId":{"name":"meteor_damage","path":"objects/obj_meteor/obj_meteor.yy",},"value":"3",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_meteor","path":"objects/obj_meteor/obj_meteor.yy",},"propertyId":{"name":"meteor_vertical_speed","path":"objects/obj_meteor/obj_meteor.yy",},"value":"7",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_meteor","path":"objects/obj_meteor/obj_meteor.yy",},"propertyId":{"name":"initial_health_point","path":"objects/obj_meteor/obj_meteor.yy",},"value":"3",},
   ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "enemy_obj",
-    "path": "objects/enemy_obj/enemy_obj.yy",
+    "name": "obj_meteor",
+    "path": "objects/obj_meteor/obj_meteor.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

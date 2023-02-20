@@ -1,1 +1,0 @@
-if health_point <= 0 instance_destroy();
